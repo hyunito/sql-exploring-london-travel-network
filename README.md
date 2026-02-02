@@ -13,7 +13,7 @@ This project performs an exploratory data analysis (EDA) on the London travel ne
 
 ## 🛠️ Technologies Used
 - **SQL:** Core data analysis and querying.
-- **Python (Jupyter Notebook):** Used as the environment to run SQL queries and handle the data.
+- **Data Lab:** Used as the environment to run SQL queries and handle the data.
 - **Pandas:** For initial data loading and inspection.
 
 ## 📂 Dataset Description
