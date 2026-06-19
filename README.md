@@ -25,4 +25,4 @@ The dataset `tfl_journeys_final.csv` contains information about journeys made ac
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hyunito/sql-exploring-london-travel-network.git](https://github.com/hyunito/sql-exploring-london-travel-network.git)
+   git clone https://github.com/hyunito/sql-exploring-london-travel-network.git
